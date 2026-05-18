@@ -1,0 +1,9 @@
+* text=auto eol=lf
+
+manifests/**/*.ndjson  -text
+state.json             -text
+artifacts/**           -text -diff
+*.ots                  -text -diff
+*.tsr                  -text -diff
+*.pdf                  -text -diff binary
+*.html                 -text -diff binary

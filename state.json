@@ -1,0 +1,138 @@
+{
+  "initialized_at": null,
+  "listing_sha": "189695de90ba2a5309a6bbc7e9ac3d264a480f978147a47edb53ca5673ec694a",
+  "notices": {
+    "2026-01-14_1400_masstech_board_of_directors_executive_committee": {
+      "body": "MassTech Board of Directors - Executive Committee",
+      "current_artifact_path": "artifacts/2026-01-14_1400_masstech_board_of_directors_executive_committee/2026-06-24T21-32-51Z/6f86a80e0f61aa57f5cf7a51da37c722c64d1c3e1b28ff5aa7e937bcec35c034.pdf",
+      "current_content_sha256": "6f86a80e0f61aa57f5cf7a51da37c722c64d1c3e1b28ff5aa7e937bcec35c034",
+      "current_manifest_path": "manifests/2026/06/24/20260624.ndjson",
+      "first_seen_at_utc": "2026-06-24T21:33:20Z",
+      "last_seen_at_utc": "2026-06-24T21:33:20Z",
+      "meeting_dt_iso": "2026-01-14T14:00:00",
+      "pending_timestamp": false,
+      "source_url": "https://masstech.org/sites/default/files/2026-01/Public%20Notice%20-%20MassTech%20Exec%20Committee%20Mtg%201_14_26.pdf",
+      "wayback_status": "deferred"
+    },
+    "2026-02-09_1000_advanced_manufacturing_collaborative": {
+      "body": "Advanced Manufacturing Collaborative",
+      "current_artifact_path": "artifacts/2026-02-09_1000_advanced_manufacturing_collaborative/2026-06-24T21-32-51Z/e0dcb4f4a82c6a5bac592b879a6fb1d7520df627cd72e681ce17086d5aee560e.pdf",
+      "current_content_sha256": "e0dcb4f4a82c6a5bac592b879a6fb1d7520df627cd72e681ce17086d5aee560e",
+      "current_manifest_path": "manifests/2026/06/24/20260624.ndjson",
+      "first_seen_at_utc": "2026-06-24T21:33:30Z",
+      "last_seen_at_utc": "2026-06-24T21:33:30Z",
+      "meeting_dt_iso": "2026-02-09T10:00:00",
+      "pending_timestamp": false,
+      "source_url": "https://masstech.org/sites/default/files/2026-01/AMC%20Public%20Notice%202-9-26.pdf",
+      "wayback_status": "deferred"
+    },
+    "2026-02-11_1400_masstech_board_of_directors_executive_committee": {
+      "body": "MassTech Board of Directors - Executive Committee",
+      "current_artifact_path": "artifacts/2026-02-11_1400_masstech_board_of_directors_executive_committee/2026-06-24T21-32-51Z/c8f6f32d5ebeb5b18805fb8ebb4960c75d3b93781cfd74ad8e22e111549c1133.pdf",
+      "current_content_sha256": "c8f6f32d5ebeb5b18805fb8ebb4960c75d3b93781cfd74ad8e22e111549c1133",
+      "current_manifest_path": "manifests/2026/06/24/20260624.ndjson",
+      "first_seen_at_utc": "2026-06-24T21:33:17Z",
+      "last_seen_at_utc": "2026-06-24T21:33:17Z",
+      "meeting_dt_iso": "2026-02-11T14:00:00",
+      "pending_timestamp": false,
+      "source_url": "https://masstech.org/sites/default/files/2026-02/Public%20Notice%20-%20MassTech%20Executive%20Committee%20Mtg%202-11-26.pdf",
+      "wayback_status": "deferred"
+    },
+    "2026-03-11_1400_masstech_board_of_directors": {
+      "body": "MassTech Board of Directors",
+      "current_artifact_path": "artifacts/2026-03-11_1400_masstech_board_of_directors/2026-06-24T21-32-51Z/7e2683eb7d46ce84b66d3c1ef6498f70d7048d56833317fb7c54809d3613e7a9.pdf",
+      "current_content_sha256": "7e2683eb7d46ce84b66d3c1ef6498f70d7048d56833317fb7c54809d3613e7a9",
+      "current_manifest_path": "manifests/2026/06/24/20260624.ndjson",
+      "first_seen_at_utc": "2026-06-24T21:33:14Z",
+      "last_seen_at_utc": "2026-06-24T21:33:14Z",
+      "meeting_dt_iso": "2026-03-11T14:00:00",
+      "pending_timestamp": false,
+      "source_url": "https://masstech.org/sites/default/files/2026-03/Public%20Notice%20-%20MassTech%20Board%20of%20Directors%20-%20March%2011%2C%202026_0.pdf",
+      "wayback_status": "deferred"
+    },
+    "2026-04-15_1300_masstech_board_of_directors_executive_committee": {
+      "body": "MassTech Board of Directors - Executive Committee",
+      "current_artifact_path": "artifacts/2026-04-15_1300_masstech_board_of_directors_executive_committee/2026-06-24T21-32-51Z/6977ea9fb9a9b14d941fa9334000d0bc155290a0b0fa767585b64cb607a37f09.pdf",
+      "current_content_sha256": "6977ea9fb9a9b14d941fa9334000d0bc155290a0b0fa767585b64cb607a37f09",
+      "current_manifest_path": "manifests/2026/06/24/20260624.ndjson",
+      "first_seen_at_utc": "2026-06-24T21:33:11Z",
+      "last_seen_at_utc": "2026-06-24T21:33:11Z",
+      "meeting_dt_iso": "2026-04-15T13:00:00",
+      "pending_timestamp": false,
+      "source_url": "https://masstech.org/sites/default/files/2026-04/Public%20Notice%20-%20MassTech%20Executive%20Committee%20-%20April%2015%2C%202026.pdf",
+      "wayback_status": "deferred"
+    },
+    "2026-04-30_1000_advanced_manufacturing_collaborative": {
+      "body": "Advanced Manufacturing Collaborative",
+      "current_artifact_path": "artifacts/2026-04-30_1000_advanced_manufacturing_collaborative/2026-06-24T21-32-51Z/f13631770d2e5c858628cac6766339402f017ef5f53e42f2bc86a8fbfb490f50.pdf",
+      "current_content_sha256": "f13631770d2e5c858628cac6766339402f017ef5f53e42f2bc86a8fbfb490f50",
+      "current_manifest_path": "manifests/2026/06/24/20260624.ndjson",
+      "first_seen_at_utc": "2026-06-24T21:33:26Z",
+      "last_seen_at_utc": "2026-06-24T21:33:26Z",
+      "meeting_dt_iso": "2026-04-30T10:00:00",
+      "pending_timestamp": false,
+      "source_url": "https://masstech.org/sites/default/files/2026-04/AMC%20Public%20Notice%204-30-26.pdf",
+      "wayback_status": "deferred"
+    },
+    "2026-05-20_1400_masstech_board_of_directors": {
+      "body": "MassTech Board of Directors",
+      "current_artifact_path": "artifacts/2026-05-20_1400_masstech_board_of_directors/2026-06-24T21-32-51Z/0cb69584f3cbc3ad84e72bafd19bac3867bec69910c410fed7fee3e0fd19c57f.pdf",
+      "current_content_sha256": "0cb69584f3cbc3ad84e72bafd19bac3867bec69910c410fed7fee3e0fd19c57f",
+      "current_manifest_path": "manifests/2026/06/24/20260624.ndjson",
+      "first_seen_at_utc": "2026-06-24T21:33:08Z",
+      "last_seen_at_utc": "2026-06-24T21:33:08Z",
+      "meeting_dt_iso": "2026-05-20T14:00:00",
+      "pending_timestamp": false,
+      "source_url": "https://masstech.org/sites/default/files/2026-05/Public Notice - MassTech Board of Directors - May 20%2C 2026.pdf",
+      "wayback_status": "deferred"
+    },
+    "2026-06-01_1300_mbi_board_of_directors": {
+      "body": "MBI Board of Directors",
+      "current_artifact_path": "artifacts/2026-06-01_1300_mbi_board_of_directors/2026-06-24T21-32-51Z/3543f8bca894d3826b9ee88dcd6cb1886b2cd43d795d45b22fc6faeb6ee1764f.pdf",
+      "current_content_sha256": "3543f8bca894d3826b9ee88dcd6cb1886b2cd43d795d45b22fc6faeb6ee1764f",
+      "current_manifest_path": "manifests/2026/06/24/20260624.ndjson",
+      "first_seen_at_utc": "2026-06-24T21:33:23Z",
+      "last_seen_at_utc": "2026-06-24T21:33:23Z",
+      "meeting_dt_iso": "2026-06-01T13:00:00",
+      "pending_timestamp": false,
+      "source_url": "https://masstech.org/sites/default/files/2026-05/Public Notice - MassTech Massachusetts Broadband Institute Board - June 1%2C 2026.pdf",
+      "wayback_status": "deferred"
+    },
+    "2026-06-10_1400_masstech_board_of_directors_executive_committee": {
+      "body": "MassTech Board of Directors - Executive Committee",
+      "current_artifact_path": "artifacts/2026-06-10_1400_masstech_board_of_directors_executive_committee/2026-06-24T21-32-51Z/894bf8673284e1e207c0c53ac054a7ef7f6f7bb54c1f925c20ff69015f225301.pdf",
+      "current_content_sha256": "894bf8673284e1e207c0c53ac054a7ef7f6f7bb54c1f925c20ff69015f225301",
+      "current_manifest_path": "manifests/2026/06/24/20260624.ndjson",
+      "first_seen_at_utc": "2026-06-24T21:33:05Z",
+      "last_seen_at_utc": "2026-06-24T21:33:05Z",
+      "meeting_dt_iso": "2026-06-10T14:00:00",
+      "pending_timestamp": false,
+      "source_url": "https://masstech.org/sites/default/files/2026-06/Public Notice%2C MassTech Executive Committee%2C June 10%2C 2026.pdf",
+      "wayback_status": "deferred"
+    },
+    "2026-06-11_0930_masstech_board_of_directors_finance_audit_committee": {
+      "body": "MassTech Board of Directors - Finance & Audit Committee",
+      "current_artifact_path": "artifacts/2026-06-11_0930_masstech_board_of_directors_finance_audit_committee/2026-06-24T21-32-51Z/1dffaf8ed613060225cdcc4fd3e7ee99d5a6bc37e790ff6c84d8c484cee6538c.pdf",
+      "current_content_sha256": "1dffaf8ed613060225cdcc4fd3e7ee99d5a6bc37e790ff6c84d8c484cee6538c",
+      "current_manifest_path": "manifests/2026/06/24/20260624.ndjson",
+      "first_seen_at_utc": "2026-06-24T21:33:01Z",
+      "last_seen_at_utc": "2026-06-24T21:33:01Z",
+      "meeting_dt_iso": "2026-06-11T09:30:00",
+      "pending_timestamp": false,
+      "source_url": "https://masstech.org/sites/default/files/2026-06/Public%20Notice%20-%20MassTech%20Finance%20and%20Audit%20Committee%20June%2011%202026%20Revised.pdf",
+      "wayback_status": "deferred"
+    },
+    "2026-06-26_1530_masstech_board_of_directors_executive_committee": {
+      "body": "MassTech Board of Directors - Executive Committee",
+      "current_artifact_path": "artifacts/2026-06-26_1530_masstech_board_of_directors_executive_committee/2026-06-24T21-32-51Z/08da09e7ba2e1c38d1f142e7f19a61617cdd1465f70cac30e101f651af102a73.pdf",
+      "current_content_sha256": "08da09e7ba2e1c38d1f142e7f19a61617cdd1465f70cac30e101f651af102a73",
+      "current_manifest_path": "manifests/2026/06/24/20260624.ndjson",
+      "first_seen_at_utc": "2026-06-24T21:32:58Z",
+      "last_seen_at_utc": "2026-06-24T21:32:58Z",
+      "meeting_dt_iso": "2026-06-26T15:30:00",
+      "pending_timestamp": false,
+      "source_url": "https://masstech.org/sites/default/files/2026-06/Public Notice - Mass Tech Executive Committee - June 26%2C 2026.pdf",
+      "wayback_status": "deferred"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+HTTP/2 200 
+server: nginx
+date: Sat, 11 Jul 2026 21:15:38 GMT
+content-type: application/pdf
+content-length: 195152
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+content-security-policy: default-src * data:; script-src https: 'self' 'unsafe-inline' 'unsafe-eval' https://api.mapbox.com/ blob:; style-src https: 'unsafe-inline'; frame-ancestors 'self' https://masshiway.net; object-src 'none';
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+last-modified: Tue, 16 Jun 2026 13:52:14 GMT
+accept-ranges: bytes
+cache-control: max-age=31536000
+expires: Sun, 11 Jul 2027 21:15:38 GMT
+x-request-id: v-aa024cce-7d6d-11f1-bdbd-b77fb6f12625
+x-ah-environment: prod
+age: 0
+via: varnish
+x-cache: MISS
+

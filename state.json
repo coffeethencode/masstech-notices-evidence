@@ -133,6 +133,66 @@
       "pending_timestamp": false,
       "source_url": "https://masstech.org/sites/default/files/2026-06/Public Notice - Mass Tech Executive Committee - June 26%2C 2026.pdf",
       "wayback_status": "deferred"
+    },
+    "2026-07-09_1000_advanced_manufacturing_collaborative": {
+      "body": "Advanced Manufacturing Collaborative",
+      "current_artifact_path": "artifacts/2026-07-09_1000_advanced_manufacturing_collaborative/2026-08-05T21-19-40Z/17388f7c1a3e198b772687096c589a51527bd651183aa4fca2823fa9d929a6bf.pdf",
+      "current_content_sha256": "17388f7c1a3e198b772687096c589a51527bd651183aa4fca2823fa9d929a6bf",
+      "current_manifest_path": "manifests/2026/08/05/20260805.ndjson",
+      "first_seen_at_utc": "2026-08-05T21:19:53Z",
+      "first_seen_run_id": "947a74f1-b3e7-46e7-8ed9-4f57b9c4248e",
+      "last_seen_at_utc": "2026-08-05T21:19:53Z",
+      "meeting_dt_iso": "2026-07-09T10:00:00",
+      "pending_timestamp": false,
+      "raw_date": "July 9, 2026",
+      "raw_time": "10:00am",
+      "source_url": "https://masstech.org/sites/default/files/2026-07/AMC Public Notice 7-9-26.pdf",
+      "wayback_status": "deferred"
+    },
+    "2026-07-16_1100_mbi_board_of_directors": {
+      "body": "MBI Board of Directors",
+      "current_artifact_path": "artifacts/2026-07-16_1100_mbi_board_of_directors/2026-08-05T21-19-40Z/a1c00e137125253258358c00df473fcda76abd52ee4f140fdb09eece2a16ce5a.pdf",
+      "current_content_sha256": "a1c00e137125253258358c00df473fcda76abd52ee4f140fdb09eece2a16ce5a",
+      "current_manifest_path": "manifests/2026/08/05/20260805.ndjson",
+      "first_seen_at_utc": "2026-08-05T21:19:50Z",
+      "first_seen_run_id": "947a74f1-b3e7-46e7-8ed9-4f57b9c4248e",
+      "last_seen_at_utc": "2026-08-05T21:19:50Z",
+      "meeting_dt_iso": "2026-07-16T11:00:00",
+      "pending_timestamp": false,
+      "raw_date": "July 16, 2026",
+      "raw_time": "11:00am",
+      "source_url": "https://masstech.org/sites/default/files/2026-07/Public%20Notice%20-%20MBI%20Board%20of%20Directors%20%28July%2016%2C%202026%29.pdf",
+      "wayback_status": "deferred"
+    },
+    "2026-07-22_1400_masstech_board_of_directors_executive_committee": {
+      "body": "MassTech Board of Directors - Executive Committee",
+      "current_artifact_path": "artifacts/2026-07-22_1400_masstech_board_of_directors_executive_committee/2026-08-05T21-19-40Z/24974c598eff1dea09fee745338e95267528502bb303c1a66f08868f7df38d93.pdf",
+      "current_content_sha256": "24974c598eff1dea09fee745338e95267528502bb303c1a66f08868f7df38d93",
+      "current_manifest_path": "manifests/2026/08/05/20260805.ndjson",
+      "first_seen_at_utc": "2026-08-05T21:19:47Z",
+      "first_seen_run_id": "947a74f1-b3e7-46e7-8ed9-4f57b9c4248e",
+      "last_seen_at_utc": "2026-08-05T21:19:47Z",
+      "meeting_dt_iso": "2026-07-22T14:00:00",
+      "pending_timestamp": false,
+      "raw_date": "July 22, 2026",
+      "raw_time": "2:00pm",
+      "source_url": "https://masstech.org/sites/default/files/2026-07/Public Notice - MassTech Executive Committee (7-22-26).pdf",
+      "wayback_status": "deferred"
+    },
+    "2026-07-27_1600_masstech_board_of_directors_finance_audit_committee": {
+      "body": "MassTech Board of Directors - Finance & Audit Committee",
+      "current_artifact_path": "artifacts/2026-07-27_1600_masstech_board_of_directors_finance_audit_committee/2026-08-05T21-19-40Z/bbb7624ea233802fa8816480f9e0965c3b99e15c391732a3d50d470397b8a2b1.pdf",
+      "current_content_sha256": "bbb7624ea233802fa8816480f9e0965c3b99e15c391732a3d50d470397b8a2b1",
+      "current_manifest_path": "manifests/2026/08/05/20260805.ndjson",
+      "first_seen_at_utc": "2026-08-05T21:19:44Z",
+      "first_seen_run_id": "947a74f1-b3e7-46e7-8ed9-4f57b9c4248e",
+      "last_seen_at_utc": "2026-08-05T21:19:44Z",
+      "meeting_dt_iso": "2026-07-27T16:00:00",
+      "pending_timestamp": false,
+      "raw_date": "July 27, 2026",
+      "raw_time": "4:00pm",
+      "source_url": "https://masstech.org/sites/default/files/2026-07/Public Notice - MassTech Finance and Audit (July 27%2C 2026).pdf",
+      "wayback_status": "deferred"
     }
   }
 }

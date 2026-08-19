@@ -69,6 +69,17 @@ a capture, and that GitHub backdated its commit log — all at once.
   repository over an ed25519 deploy key restricted to push-only access on
   this single repository.
 
+## Legal reference material
+
+`docs/legal/` holds secondary research — case files and doctrine notes — kept
+alongside the record so a reader has the legal frame in hand. It is **not
+evidence**: nothing there is hashed, timestamped, or append-only, and it must
+never be cited as proof of what MassTech posted or when.
+
+- [`docs/legal/right-to-record/`](docs/legal/right-to-record/) — First
+  Amendment right to record government officials performing public duties, the
+  constitutional floor under G.L. c. 30A § 20(f).
+
 ## Bug reports and verification problems
 
 Open an issue. If you cannot independently verify a captured observation

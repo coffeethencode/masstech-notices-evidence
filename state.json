@@ -223,6 +223,21 @@
       "raw_time": "",
       "source_url": "https://masstech.org/sites/default/files/2026-08/MBI%20Board%20of%20Directors%20%28September%201%2C%202026%29%20-%20Public%20Notice.pdf",
       "wayback_status": "deferred"
+    },
+    "2026-09-16_1400_masstech_board_of_directors_executive_committee": {
+      "body": "MassTech Board of Directors - Executive Committee",
+      "current_artifact_path": "artifacts/2026-09-16_1400_masstech_board_of_directors_executive_committee/2026-09-14T14-31-58Z/d7151297f56f9b0c175f33ed6b286125ce953d4fc14f8e1b9fcbbd8c14c9200b.pdf",
+      "current_content_sha256": "d7151297f56f9b0c175f33ed6b286125ce953d4fc14f8e1b9fcbbd8c14c9200b",
+      "current_manifest_path": "manifests/2026/09/14/20260914.ndjson",
+      "first_seen_at_utc": "2026-09-14T14:32:01Z",
+      "first_seen_run_id": "405df9c8-e586-49fc-9c89-c00df0357745",
+      "last_seen_at_utc": "2026-09-14T14:32:01Z",
+      "meeting_dt_iso": "2026-09-16T14:00:00",
+      "pending_timestamp": false,
+      "raw_date": "September 16, 2026",
+      "raw_time": "2:00pm",
+      "source_url": "https://masstech.org/sites/default/files/2026-09/MTC%20Executive%20Committee%209-16-26%20-%20Public%20Notice.pdf",
+      "wayback_status": "deferred"
     }
   }
 }

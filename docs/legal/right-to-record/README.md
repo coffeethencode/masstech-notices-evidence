@@ -58,6 +58,14 @@ opinion's string cite in this session.
 - 10th Cir. — *Irizarry v. Yehia*, 38 F.4th 1282 (2022); cf. *Frasier v. Evans*, 992 F.3d 1003 (2021) (QI granted without reaching merits)
 - 11th Cir. — *Smith v. City of Cumming*, 212 F.3d 1332 (2000)
 
+## Whom you can sue
+
+This directory covers *what the right is*. The threshold question of *whom you
+can sue for it* — whether MassTech is an arm of the state, a § 1983 "person,"
+and what remedy survives either way — is in
+[`../masstech-as-section-1983-defendant.md`](../masstech-as-section-1983-defendant.md).
+A claim needs both halves.
+
 ## Files
 
 - [`massimino-v-benoit-2d-cir-2026.md`](massimino-v-benoit-2d-cir-2026.md) —

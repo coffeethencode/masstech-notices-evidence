@@ -23,3 +23,7 @@ stale, or superseded — each file carries its own verification status.
 - [`right-to-record/`](right-to-record/) — First Amendment right to record
   government officials performing public duties; the constitutional floor
   under G.L. c. 30A § 20(f) (recording of open sessions).
+- [`masstech-as-section-1983-defendant.md`](masstech-as-section-1983-defendant.md)
+  — arm-of-state / § 1983 "person" / remedy threshold questions for suing
+  MassTech, by analogy from other Massachusetts quasi-publics. Includes a
+  list of **fabricated citations not to reuse**.

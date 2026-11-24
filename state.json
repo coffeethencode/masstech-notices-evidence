@@ -283,6 +283,30 @@
       "raw_time": "12:30pm",
       "source_url": "https://masstech.org/sites/default/files/2026-09/10-27-26%20AMC%20Public%20Notice.pdf",
       "wayback_status": "deferred"
+    },
+    "2026-11-30_0900_masstech_board_of_directors_executive_committee": {
+      "body": "MassTech Board of Directors - Executive Committee",
+      "current_artifact_path": "artifacts/2026-11-30_0900_masstech_board_of_directors_executive_committee/2026-11-24T17-33-06Z/a05af2b037b589bbac9739ea0b2aa8285e7f0f2fc3eb8397d8472156fec5251c.pdf",
+      "current_content_sha256": "a05af2b037b589bbac9739ea0b2aa8285e7f0f2fc3eb8397d8472156fec5251c",
+      "current_manifest_path": "manifests/2026/11/24/20261124.ndjson",
+      "etag": null,
+      "first_seen_at_utc": "2026-11-24T17:33:09Z",
+      "first_seen_run_id": "70060e54-2e71-48ef-af60-94f1beac2085",
+      "last_modified": "Tue, 24 Nov 2026 17:23:46 GMT",
+      "last_seen_at_utc": "2026-11-24T17:33:09Z",
+      "meeting_dt_iso": "2026-11-30T09:00:00",
+      "pdf_creation_date": "2026-11-24T12:23:16-05",
+      "pdf_mod_date": "2026-11-24T12:23:16-05",
+      "pdf_producer": "Foxit PDF Creator Version 2025.2.0.16160",
+      "pending_timestamp": false,
+      "posted_stamp_iso": "2026-11-24T12:30:00",
+      "posted_stamp_text": "Date and Time Posted to MassTech Collaborative Website: November 24, 2026 at 12:30 p.m..",
+      "raw_date": "November 30, 2026",
+      "raw_time": "9:00am",
+      "source_url": "https://masstech.org/sites/default/files/2026-11/Public%20Notice%20-%20MassTech%20Executive%20Committee%20%2811-30-26%29.pdf",
+      "timestamp_errors": [],
+      "wayback_reason": "disabled: MASSTECH_WAYBACK_ENABLED unset",
+      "wayback_status": "skipped"
     }
   }
 }
